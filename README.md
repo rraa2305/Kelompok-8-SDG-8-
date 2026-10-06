@@ -1,3 +1,5 @@
+<h1>Prediksi Kelayakan Pinjaman Nasabah Menggunakan Klasifikasi Algoritma Machine Learning untuk Mendorong Inklusi Keuangan Inklusif</h1>
+<hr>
 <h1>KELOMPOK 8 (SDG 8)</h1>
 <h3>Anggota Kelompok</h3>
 <h4>
